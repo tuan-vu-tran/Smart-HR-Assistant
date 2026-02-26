@@ -1,0 +1,9 @@
+# On ignore les dossiers
+nouveau_data/
+actuel_data/
+chroma_db/
+*.env
+.env
+__pycache__/
+.ipynb_checkpoints/
+question.txt
